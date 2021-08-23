@@ -1,0 +1,10 @@
+yarn add eslint-plugin-react-hooks -D
+
+yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
+
+yarn add @types/styled-components -D sem types tb
+
+
+yarn add babel-plugin-styled-components -D
+
+https://mysterious-stream-74021.herokuapp.com/
