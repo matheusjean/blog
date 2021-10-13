@@ -18,5 +18,4 @@ npm run dev
 # or
 yarn dev
 ```
-
-Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
+Abra https://romantic-hodgkin-8688d0.netlify.app/ no seu navegador para ver o blog em pleno funcionamento.
