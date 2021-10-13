@@ -1,7 +1,12 @@
 
 ## Para rodar
 
-First, run the development server:
+Primeiro instale as dependências:
+```bash
+npm install
+# or
+yarn
+```
 
 ```bash
 npm run dev
