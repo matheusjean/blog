@@ -48,3 +48,6 @@ export default class MyDocument extends Document {
     );
   }
 }
+
+// useState consegue ir atualizando o estado atual
+// useEffect para fazer função de "efeito" pq vamos pegar e utilizar algo q dê pra fazer isso

@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import { DiscussionEmbed } from 'disqus-react';
-import { SITE_URL } from '../config/app-config';
+import { SITE_URL } from '../../config/app-config';
 import { Container } from './styles';
 
 export type CommentsProps = {
